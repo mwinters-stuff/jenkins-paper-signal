@@ -7,7 +7,7 @@ Using the arrow paper signal to indicate build status on a jenkins jon.
 Build the arrow paper signal from 
 https://papersignals.withgoogle.com/
 
-Install the python-jenkins library (pip-install jenkins-python)
+Install the python-jenkins library (pip-install python-jenkins)
 
 Install ServoBlaster from github - https://github.com/srcshelton/servoblaster
 *** I configure the first servo to pin 11, as it works better.
